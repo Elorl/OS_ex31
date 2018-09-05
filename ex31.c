@@ -1,5 +1,4 @@
-//Elor Lichtziger
-//308541739
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <fcntl.h>
